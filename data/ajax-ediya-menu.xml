@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ediya-menus>
+  <menu-item>
+    <figure>
+      <name>ICED-벚꽃라떼</name>
+      <width>323</width>
+      <height>323</height>
+    </figure>
+    <detail>
+      <ko>ICED 벚꽃라떼</ko>
+      <en>Cherry Blossom Latte</en>
+      <desc>은은한 벚꽃향과 라즈베리 화이트 초콜릿 토핑이 올라간 핑크빛 라떼</desc>
+      <display-criteria>
+        <item>
+          <key>칼로리</key>
+          <value>393kcal</value>
+        </item>
+        <item>
+          <key>당류</key>
+          <value>35g</value>
+        </item>
+        <item>
+          <key>단백질</key>
+          <value>7g</value>
+        </item>
+        <item>
+          <key>포화지방</key>
+          <value>18.6g</value>
+        </item>
+        <item>
+          <key>나트륨</key>
+          <value>149mg</value>
+        </item>
+        <item>
+          <key>카페인</key>
+          <value>0mg</value>
+        </item>
+      </display-criteria>
+    </detail>
+  </menu-item>
+
+  <menu-item>
+    <figure>
+      <name>HOT-벚꽃라떼</name>
+      <width>323</width>
+      <height>323</height>
+    </figure>
+    <detail>
+      <ko>HOT 벚꽃라떼</ko>
+      <en>Cherry Blossom Latte</en>
+      <desc>은은한 벚꽃향과 라즈베리 화이트 초콜릿 토핑이 올라간 핑크빛 라떼</desc>
+      <display-criteria>
+        <item>
+          <key>칼로리</key>
+          <value>430kcal</value>
+        </item>
+        <item>
+          <key>당류</key>
+          <value>38g</value>
+        </item>
+        <item>
+          <key>단백질</key>
+          <value>10g</value>
+        </item>
+        <item>
+          <key>포화지방</key>
+          <value>19.0g</value>
+        </item>
+        <item>
+          <key>나트륨</key>
+          <value>149mg</value>
+        </item>
+        <item>
+          <key>카페인</key>
+          <value>0mg</value>
+        </item>
+      </display-criteria>
+    </detail>
+  </menu-item>
+
+  <menu-item>
+    <figure>
+      <name>ICED-브라우니-쇼콜라</name>
+      <width>323</width>
+      <height>323</height>
+    </figure>
+    <detail>
+      <ko>ICED 브라우니 쇼콜라</ko>
+      <en>Brownie Chocolate</en>
+      <desc>깊고 진한 초콜릿의 맛에 부드러운 휘핑크림과 브라우니를 함께 어울러져 고급스러운 디저트 같은 초콜릿 음료</desc>
+      <display-criteria>
+        <item>
+          <key>칼로리</key>
+          <value>503kcal</value>
+        </item>
+        <item>
+          <key>당류</key>
+          <value>42g</value>
+        </item>
+        <item>
+          <key>단백질</key>
+          <value>9g</value>
+        </item>
+        <item>
+          <key>포화지방</key>
+          <value>20.8g</value>
+        </item>
+        <item>
+          <key>나트륨</key>
+          <value>262mg</value>
+        </item>
+        <item>
+          <key>카페인</key>
+          <value>12mg</value>
+        </item>
+      </display-criteria>
+    </detail>
+  </menu-item>
+
+  <menu-item>
+    <figure>
+      <name>HOT-브라우니-쇼콜라</name>
+      <width>323</width>
+      <height>323</height>
+    </figure>
+    <detail>
+      <ko>HOT 브라우니 쇼콜라</ko>
+      <en>Brownie Chocolate</en>
+      <desc>깊고 진한 초콜릿의 맛에 부드러운 휘핑크림과 브라우니를 함께 어울러져 고급스러운 디저트 같은 초콜릿 음료</desc>
+      <display-criteria>
+        <item>
+          <key>칼로리</key>
+          <value>503kcal</value>
+        </item>
+        <item>
+          <key>당류</key>
+          <value>42g</value>
+        </item>
+        <item>
+          <key>단백질</key>
+          <value>9g</value>
+        </item>
+        <item>
+          <key>포화지방</key>
+          <value>20.9g</value>
+        </item>
+        <item>
+          <key>나트륨</key>
+          <value>299mg</value>
+        </item>
+        <item>
+          <key>카페인</key>
+          <value>12mg</value>
+        </item>
+      </display-criteria>
+    </detail>
+  </menu-item>
+
+  <menu-item>
+    <figure>
+      <name>제주청귤-오리지널</name>
+      <width>323</width>
+      <height>323</height>
+    </figure>
+    <detail>
+      <ko>제주청귤 오리지널</ko>
+      <en>Jeju Green Tangerine Tea</en>
+      <desc>청정 제주지역에서 자라난 귀한 청귤의 풍부한 과육을 맛볼 수 있는 새콤달콤한 홈메이드 스타일 과일차</desc>
+      <display-criteria>
+        <item>
+          <key>칼로리</key>
+          <value>218kcal</value>
+        </item>
+        <item>
+          <key>당류</key>
+          <value>51g</value>
+        </item>
+        <item>
+          <key>단백질</key>
+          <value>0g</value>
+        </item>
+        <item>
+          <key>포화지방</key>
+          <value>0.1g</value>
+        </item>
+        <item>
+          <key>나트륨</key>
+          <value>4mg</value>
+        </item>
+        <item>
+          <key>카페인</key>
+          <value>0mg</value>
+        </item>
+      </display-criteria>
+    </detail>
+  </menu-item>
+</ediya-menus>
