@@ -121,7 +121,7 @@ a img {
  cursor: pointer;
  width: 26px;
  height: 22px;
- background: url(../images/navigation-button.gif) no-repeat 50%;
+ background: url("https://yamoo9.github.io/assets/images/ediya/navigation-button.gif") no-repeat 50%;
 }
 
 .app-header .button.is-open-menu:hover, .app-header .button.is-open-menu:focus {
