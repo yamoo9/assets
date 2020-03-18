@@ -1,0 +1,38 @@
+.app-header {
+  /* 0% */
+  opacity: 0;
+  transform: translateY(-4rem);
+  /* 100% */
+  animation: transform-none 0.35s 0.4s ease-out forwards;
+}
+
+.brand {
+  opacity: 0;
+  transform: translateX(-4rem);
+  animation: transform-none 0.3s 0.7s cubic-bezier(0, 0, 0.23, 1.43) forwards;
+}
+
+button[title="메뉴 열기"] {
+  opacity: 0;
+  transform: translateX(4rem);
+  animation: transform-none 0.45s 0.65s cubic-bezier(0, 0, 0, 1) forwards;
+}
+
+.ediya-menu__item {
+  opacity: 0;
+  transform: translateY(4rem);
+  animation: transform-none 0.3s 0.85s cubic-bezier(0.6, 0.01, 0.16, 1) forwards;
+}
+
+.ediya-menu__item:nth-child(1) { animation-duration: 0.8s }
+.ediya-menu__item:nth-child(2) { animation-duration: 1.2s }
+.ediya-menu__item:nth-child(3) { animation-duration: 1.6s }
+.ediya-menu__item:nth-child(4) { animation-duration: 2.0s }
+
+@keyframes transform-none {
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+
