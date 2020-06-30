@@ -57,7 +57,6 @@ function loadScripts(list, callback) {
 loadScripts(
   [
     '//cdn.jsdelivr.net/npm/eligrey-classlist-js-polyfill@1.2.20171210/classList.min.js',
-    '//yamoo9.github.io/assets/ui/Toast/Toast.css',
     '//yamoo9.github.io/assets/utils/loadStyle.js',
     '//yamoo9.github.io/assets/utils/mixins.js',
   ],
