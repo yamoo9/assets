@@ -1,0 +1,84 @@
+{
+  "vowels": [
+    {
+      "id": 10,
+      "uid": "hangle-vowel-ㄱ",
+      "letter": "ㄱ",
+      "name": "기역",
+      "shape": "혓등이 연구개(여린입천장)에 닿는 모양",
+      "sounds": "아음(牙音)"
+    },
+    {
+      "id": 20,
+      "uid": "hangle-vowel-ㄴ",
+      "letter": "ㄴ",
+      "name": "니은",
+      "shape": "혀끝이 윗니 바로 뒤의 잇몸에 닿는 모양",
+      "sounds": "설음(舌音)"
+    },
+    {
+      "id": 30,
+      "uid": "hangle-vowel-ㄷ",
+      "letter": "ㄷ",
+      "name": "디귿",
+      "shape": "혀끝이 윗니 바로 뒤의 잇몸에 닿는 모양",
+      "sounds": "설음(舌音)"
+    },
+    {
+      "id": 40,
+      "uid": "hangle-vowel-ㄹ",
+      "letter": "ㄹ",
+      "name": "리을",
+      "shape": "목구멍의 모양",
+      "sounds": "후음(喉音)"
+    },
+    {
+      "id": 50,
+      "uid": "hangle-vowel-ㅁ",
+      "letter": "ㅁ",
+      "name": "미음",
+      "shape": "아랫입술과 윗입술이 다물어진 모양",
+      "sounds": "순음(唇音)"
+    },
+    {
+      "id": 60,
+      "uid": "hangle-vowel-ㅂ",
+      "letter": "ㅂ",
+      "name": "비읍",
+      "shape": "아랫입술과 윗입술이 다물어진 모양",
+      "sounds": "순음(唇音)"
+    },
+    {
+      "id": 70,
+      "uid": "hangle-vowel-ㅅ",
+      "letter": "ㅅ",
+      "name": "시옷",
+      "shape": "이의 모양",
+      "sounds": "치음(齒音)"
+    },
+    {
+      "id": 80,
+      "uid": "hangle-vowel-ㅇ",
+      "letter": "ㅇ",
+      "name": "이응",
+      "shape": "목구멍의 모양",
+      "sounds": "후음(喉音)"
+    },
+    {
+      "id": 90,
+      "uid": "hangle-vowel-ㅈ",
+      "letter": "ㅈ",
+      "name": "지읒",
+      "shape": "혀끝이 윗니 바로 뒤의 잇몸에 닿는 모양",
+      "sounds": "설음(舌音)"
+    },
+    {
+      "id": 100,
+      "uid": "hangle-vowel-ㅊ",
+      "letter": "ㅊ",
+      "name": "치읒",
+      "shape": "혀끝이 윗니 바로 뒤의 잇몸에 닿는 모양",
+      "sounds": "설음(舌音)"
+    }
+  ]
+}
